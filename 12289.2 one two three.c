@@ -1,0 +1,86 @@
+#include<stdio.h>//Accepted
+#include<string.h>
+
+int main()
+{
+    int n,count;
+    char ch[10];
+    while(scanf("%d",&n)==1);
+    {
+        while(n--)
+        {
+            gets(ch);
+            if(strlen(ch)==5)
+            {
+                count=0;
+                if(ch[0]=='t')
+                {
+                    count++;
+                }
+                if(ch[1]=='h')
+                {
+                    count++;
+                }
+                if(ch[2]=='r')
+                {
+                    count++;
+                }
+                if(ch[3]=='e')
+                {
+                    count++;
+                }
+                if(ch[4]=='e')
+                {
+                    count++;
+                }
+                if(count>=4)
+                {
+                    printf("3\n");
+                }
+            }
+            else
+            {
+                count=0;
+                if(ch[0]=='t')
+                {
+                    count++;
+                }
+                if(ch[1]=='w')
+                {
+                    count++;
+                }
+                if(ch[2]=='o')
+                {
+                    count++;
+                }
+                if(count>=2)
+                {
+                    printf("2\n");
+                }
+                else
+                {
+                    count=0;
+                    if(ch[0]=='o')
+                    {
+                        count++;
+                    }
+                    if(ch[1]=='n')
+                    {
+                        count++;
+                    }
+                    if(ch[2]=='e')
+                    {
+                        count++;
+                    }
+                    if(count>=2)
+                    {
+                        printf("1\n");
+                    }
+                }
+            }
+
+        }
+    }
+    return 0;
+}
+
