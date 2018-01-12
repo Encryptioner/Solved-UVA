@@ -1,0 +1,110 @@
+9 
+JV PT 
+JV TA 
+JV DA 
+PT KA 
+KA HP 
+DA TA 
+DA HP 
+HP AP 
+AP TA 
+JV DA 
+
+9 
+JV PT 
+JV TA 
+JV DA 
+PT KA 
+KA HP 
+DA TA 
+DA HP 
+HP AP 
+AP TA 
+JV AP 
+
+9 
+JV PT 
+JV TA 
+JV DA 
+PT KA 
+KA HP 
+DA TA 
+DA HP 
+HP AP 
+AP TA 
+JV HP 
+
+8 
+JV PT 
+JV TA 
+PT KA 
+KA HP 
+DA TA 
+DA HP 
+HP AP 
+AP TA 
+JV HP 
+
+3
+JV PT
+KA PT
+KA HP
+JV HP
+
+2
+JV PT
+KA HP
+JV HP
+
+4
+JV PT
+KA PT
+KA HP
+JV HP
+JV HP
+
+5
+JV PT
+KA PT
+KA HP
+JV HP
+HP GA
+JV GA
+
+4
+JV PT
+KA PT
+KA HP
+HP GA
+JV GA
+
+4
+JV PT
+KA PT
+KA HP
+HP GA
+JV KA
+
+5
+JV PT
+KA PT
+KA HP
+HP GA
+GA NO
+JV NO
+
+5
+JV PT
+KA PT
+KA HP
+HP GA
+GA NO
+GA PT
+
+4
+JV PT
+KA PT
+KA HP
+GA NO
+GA PT
+
